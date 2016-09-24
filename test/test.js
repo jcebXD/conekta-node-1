@@ -1107,7 +1107,7 @@ describe('Log', function() {
       done();
     });
   });
-  
+
 });
 
 describe('Base64Encode', function() {
